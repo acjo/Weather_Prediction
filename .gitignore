@@ -1,0 +1,6 @@
+*.~undo-tree~
+*.swp
+*.npy
+
+*.idea/
+*.ipynb_checkpoints/
