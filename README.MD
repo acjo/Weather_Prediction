@@ -3,5 +3,6 @@ We've all been there. You wake up, check the weather for the day, plan your clot
 Google's Deepmind has had recent success use deep nerual-networks to predict weather. However even those are subject to long term errors and are only good for short-time within the same day predictions. Our goal here is to write a review of different (traditional) machine learning methods to predict weather and discuss the general difficulties of weather prediction. 
 
 Future Work:
+The non-scientific and non-academic communities have shown their distrust in the scientific and academic insitutions over the course of the pandemic. Commonly climate change is discussed and actively disputed by those who do not understand the science behind it. The end goal of this project is to have a full transparency temperature-carbon scale model to show that what we (the scientific community) say, is not a "hoax." 
 
-
+Our vision is to have a web-based plug and play model with different parameters as well as a always public git repository where the code and data used to develop and train the models is viewable by everyone we hope to ease some of the tension between the two parties and instill some trust into the people that rely on the scientists. 
